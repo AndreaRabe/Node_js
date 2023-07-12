@@ -23,7 +23,7 @@ const configSession = {
     saveUninitialized: true,
     cookie: {
       maxAge: 3600000, // 1h validity,
-      secure : false  // only for local prodaction
+      secure : false  // only for local production
     },
 }
 
